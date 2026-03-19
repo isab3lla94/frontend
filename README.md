@@ -1,2 +1,2 @@
-# Vynka
+# Nodd
 Red social universitaria
